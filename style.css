@@ -1,0 +1,19 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+
+section p + button {
+  padding: 30px;
+  margin-left: 50px;
+
+  background-color: hotpink;
+  color: white
+}
+
+nav button {
+  background-color: lightgray;
+  padding: 20px
+}
+
